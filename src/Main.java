@@ -18,6 +18,10 @@ public class Main {
       stuart.rings="5";
       stuart.temperature="-4884848k";
 
+      what why
+              dkwjfkj
+ 
+
      hello how are u
       please give me a coflict
 
